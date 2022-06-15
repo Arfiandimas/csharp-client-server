@@ -1,0 +1,15 @@
+/var/www/html/DotNet/MyAppClientServe/obj/Debug/net6.0/MyAppClientServe.csproj.AssemblyReference.cache
+/var/www/html/DotNet/MyAppClientServe/obj/Debug/net6.0/MyAppClientServe.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/DotNet/MyAppClientServe/obj/Debug/net6.0/MyAppClientServe.AssemblyInfoInputs.cache
+/var/www/html/DotNet/MyAppClientServe/obj/Debug/net6.0/MyAppClientServe.AssemblyInfo.cs
+/var/www/html/DotNet/MyAppClientServe/obj/Debug/net6.0/MyAppClientServe.csproj.CoreCompileInputs.cache
+/var/www/html/DotNet/MyAppClientServe/bin/Debug/net6.0/MyAppClientServe
+/var/www/html/DotNet/MyAppClientServe/bin/Debug/net6.0/MyAppClientServe.deps.json
+/var/www/html/DotNet/MyAppClientServe/bin/Debug/net6.0/MyAppClientServe.runtimeconfig.json
+/var/www/html/DotNet/MyAppClientServe/bin/Debug/net6.0/MyAppClientServe.dll
+/var/www/html/DotNet/MyAppClientServe/bin/Debug/net6.0/MyAppClientServe.pdb
+/var/www/html/DotNet/MyAppClientServe/obj/Debug/net6.0/MyAppClientServe.dll
+/var/www/html/DotNet/MyAppClientServe/obj/Debug/net6.0/refint/MyAppClientServe.dll
+/var/www/html/DotNet/MyAppClientServe/obj/Debug/net6.0/MyAppClientServe.pdb
+/var/www/html/DotNet/MyAppClientServe/obj/Debug/net6.0/MyAppClientServe.genruntimeconfig.cache
+/var/www/html/DotNet/MyAppClientServe/obj/Debug/net6.0/ref/MyAppClientServe.dll
